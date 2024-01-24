@@ -1,21 +1,13 @@
-The CNIL said Amazon France Logistique, which manages warehouses, recorded data captured by workers' handheld scanners.
-
-It found Amazon tracked activity so precisely that it led to workers having to potentially justify each break.
-
-Amazon said it strongly disagreed with the CNIL's findings and called them "factually incorrect".
-
-France's data protection agency investigated Amazon warehouses following complaints by employees as well as media coverage of conditions.
-
-It outlined a number of areas where it found Amazon had breached General Data Protection Regulation (GDPR).
-
-This included a system with three alerts in place to monitor employee activity, which the CNIL ruled to be illegal.
-
-One alert triggered if an item was scanned too quickly or less than 1.25 seconds after scanning a previous item, increasing the risk of error.
-
-Another signalled breaks of 10 minutes or more, while a third tracked breaks between one and 10 minutes.
-
-The CNIL also questioned why Amazon needed to keep workers' data for 31 days.
-
-Responding to the findings an Amazon spokesperson said: "We strongly disagree with the CNIL's conclusions which are factually incorrect and we reserve the right to file an appeal.
-
-"Warehouse management systems are industry standard and are necessary for ensuring the safety, quality, and efficiency of operations and to track the storage of inventory and processing of packages on time and in line with customer expectations."
+NEW YORK, Jan 24 (Reuters) - Microsoft's (MSFT.O), opens new tab stock market value crossed the $3 trillion milestone for the first time on Wednesday, retaining its place as the world's second most valuable company, just behind Apple (AAPL.O), opens new tab.
+Microsoft and Apple shares have been vying for the top spot as the most capitalized stock on Wall Street since the start of the year, with the iPhone maker briefly losing its crown to the software giant earlier in January.
+Shares of Microsoft hit a record high of $405.63, up 1.7%, enabling it to breach the $3 trillion market capitalization level. But it later closed at $402.56, valuing Microsoft at $2.99 trillion, just below the threshold price of $403.65 that would have kept it above $3 trillion.
+Apple's shares pared earlier gains and closed down 0.35% at $194.50, giving it a market value of $3 trillion, according to LSEG data.
+Backed by its investment in ChatGPT maker OpenAI, Microsoft is widely seen as a frontrunner in the race for market dominance in the rollout of generative artificial intelligence (AI) among other tech heavyweights, including Google owner Alphabet (GOOGL.O), opens new tab, Amazon.com (AMZN.O), opens new tab, Oracle (ORCL.N), opens new tab, and Facebook owner Meta Platforms (META.O), opens new tab.
+Using OpenAI's technology, Microsoft has rolled out newer versions of its flagship productivity software products as well as its Bing search engine, which is expected to better compete with Google's dominant search offering.
+Apple, on the other hand, is facing slowing demand for its iPhones, particularly in China, where the company is offering customers rare discounts to boost sales amid stiff competition from homegrown rivals such as Huawei Technologies (HWT.UL).
+"I think it's AI optimism for Microsoft," said Stifel analyst Brad Reback, adding that Apple doesn't seem to have the same "clear AI story" coupled with concerns about iPhone sales growth rates and penetration.
+The 54 analysts covering Microsoft's stock have a median price target of $425, up from $415 a month ago, and their average recommendation is "buy", according to LSEG data.
+Buoyed by AI optimism, Microsoft shares gained nearly 57% in 2023 and are up 7% this year. Apple's stock rose by 48% last year and is up about 1% year-to-date.
+Wall Street's run-up to record highs will be put to the test in the coming weeks as megacap U.S. technology-related companies begin reporting results.
+(This story has been refiled to adjust year-to-date gains for Microsoft and Apple in paragraph 10)
+Reporting by Chibuike Oguh in New York; Additional reporting by by Noel Randewich in Oakland, California; Editing by Mark Porter, Bill Berkrot, David Evans and Jonathan Oatis
